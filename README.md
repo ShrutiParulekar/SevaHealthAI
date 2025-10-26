@@ -58,7 +58,7 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/ShrutiParulekar/WiBD_Hackathon.git
+git clone https://github.com/ShrutiParulekar/SevaHealthAI.git
 
 ```
 
@@ -242,7 +242,7 @@ npm run preview  # Preview production build
 ## 📁 Project Structure
 
 ```
-WiBD_Hackathon/
+SevaHealthAI/
 ├── Chat Server/              # FastAPI + LangGraph chatbot agent
 │   ├── api_server.py        # FastAPI server with SSE streaming
 │   ├── chatbot_agent.py     # LangGraph agent implementation
@@ -306,12 +306,7 @@ Contributions are welcome! Please follow these steps:
 
 This project is created for the WiBD Hackathon. Please check with the repository owner for licensing information.
 
-## 👥 Team
 
-- **Repository Owner**: [ShrutiParulekar](https://github.com/ShrutiParulekar)
-- **Contributors**: [Add your team members here]
-
-## 🐛 Troubleshooting
 
 ### Common Issues
 
@@ -348,12 +343,6 @@ lsof -ti:8000 | xargs kill -9
 
 # Or change port in respective config files
 ```
-
-## 📞 Support
-
-For issues, questions, or suggestions:
-- Open an issue on [GitHub](https://github.com/ShrutiParulekar/WiBD_Hackathon/issues)
-- Contact the team members
 
 ## 🎯 Future Enhancements
 
