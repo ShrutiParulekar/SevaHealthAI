@@ -1,0 +1,10 @@
+fastmcp
+pandas
+langchain
+langchain-chroma
+langchain-google-genai
+python-dotenv
+chromadb
+langchain-text-splitters
+PyPDF2
+fastparquet
