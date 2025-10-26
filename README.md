@@ -5,7 +5,7 @@
 [![LangChain](https://img.shields.io/badge/LangChain-Latest-orange.svg)](https://langchain.com/)
 [![MCP](https://img.shields.io/badge/MCP-FastMCP-purple.svg)](https://github.com/anthropics/fastmcp)
 
-**SevaHealth AI** is an intelligent healthcare assistant that helps users find nearby hospitals and access healthcare information using AI-powered search and recommendations. Built for the WiBD Hackathon, this project demonstrates the power of Model Context Protocol (MCP), LangGraph, and modern web technologies to create an accessible healthcare solution.
+**SevaHealth AI** is an intelligent healthcare assistant that helps users find nearby hospitals and access healthcare information using AI-powered search and recommendations. Built for the WiBD Hackathon, this project demonstrates the power of Model Context Protocol (MCP), LangGraph, and modern web technologies to create an accessible healthcare solution. It can talk in any language.
 
 ## 🌟 Features
 
@@ -59,7 +59,7 @@ Before you begin, ensure you have the following installed:
 
 ```bash
 git clone https://github.com/ShrutiParulekar/WiBD_Hackathon.git
-cd WiBD_Hackathon
+
 ```
 
 ### 2. Environment Configuration
